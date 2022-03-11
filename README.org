@@ -1,0 +1,7 @@
+#+title: Keynote Nord
+
+Apple Keynote presentation theme with color pallet from https://nordtheme.com
+
+* Description
+
+A theme file for Apple's Keynote that uses the Nord color pallet. This is a pretty basic theme that I made for myself; have at it.
